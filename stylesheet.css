@@ -1,0 +1,12 @@
+body {
+    background-image: url(assets/marble-background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+.center{
+    text-align: center; 
+}
+.bg-primary {
+    color: grey; 
+}
